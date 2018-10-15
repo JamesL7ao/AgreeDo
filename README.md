@@ -1,3 +1,3 @@
-# https://jamesl7ao.github.io/AgreeDo/.
-AgreeDo
-![这是轮播图图片](https://jamesl7ao.github.io/AgreeDo/img/bg-1.jpg)
+项目地址：# https://jamesl7ao.github.io/AgreeDo/. 
+
+项目简介：使用bootstrap以及相应的媒体查询来实现响应式网站。
